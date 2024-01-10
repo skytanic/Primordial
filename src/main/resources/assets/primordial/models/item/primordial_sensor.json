@@ -1,0 +1,9 @@
+{
+  "loader": "primordial:primordial_sensor_loader",
+  "base_model": {
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "primordial:item/primordial_sensor"
+    }
+  }
+}

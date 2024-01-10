@@ -1,0 +1,11 @@
+{
+  "item.primordial.primordial_sensor": "Primordial Sensor",
+
+  "primordial.sensor.locating": "Attempting to locate %s, please wait...",
+  "primordial.sensor.found": "%s has been located %s blocks away at (%s, %s, %s)",
+  "primordial.sensor.failed": "%s can not be located",
+
+  "sounds.primordial.primordial_sensor_resonating": "Primordial Sensor Resonating",
+
+  "itemGroup.primordial": "Primordial"
+}

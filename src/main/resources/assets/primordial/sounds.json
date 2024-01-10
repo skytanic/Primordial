@@ -1,0 +1,8 @@
+{
+  "primordial_sensor_resonating": {
+    "subtitle":"sounds.primordial.primordial_sensor_resonating",
+    "sounds": [
+      "primordial:primordial_sensor_resonating"
+    ]
+  }
+}
